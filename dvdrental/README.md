@@ -30,7 +30,6 @@ Para facilitar a compreensão do domínio, as tabelas estão agrupadas por conte
 * `country`: Armazena a lista de países cadastrados.
 
 ---
-<br><br><br><br><br>
 
 ### 🖼️ Diagrama Entidade-Relacionamento (DER)
 
